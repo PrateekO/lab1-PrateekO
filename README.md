@@ -23,8 +23,8 @@ Three main strats:
   2.  Do stuff as soon as you think about it  
   3.  Relax and have fun  
   
-Important tools/strategies you use for organizing your work?
+Important tools/strategies you use for organizing your work:
 
-1.I make folders on my personal laptop for each class I take.
-2.Naming files after what's in them to make them easy to find.
-3.I try to organize my workload by prioritizing the things I find the easiest.
+  1.I make folders on my personal laptop for each class I take.
+  2.Naming files after what's in them to make them easy to find.
+  3.I try to organize my workload by prioritizing the things I find the easiest.
